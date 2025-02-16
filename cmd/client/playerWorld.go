@@ -194,6 +194,7 @@ func (playerWorld *playerWorld) sendShootMessage() {
 	playerWorld.connMutex.Unlock()
 }
 
+// https://github.com/froopy090/fps-game/blob/master/include/Utility/Collision.h#L79
 func (playerWorld *playerWorld) handleCollision(playerHorizontalPosition rl.Vector2, playerBoundingBox rl.BoundingBox, velocity *rl.Vector3) {
 	// use region tree data structure to only fetch the bounding boxes near the player
 	for _, blockBoundingBox := range playerWorld.localBoundingBlocks(playerHorizontalPosition) {
