@@ -55,12 +55,12 @@ make client
 - Q to swap guns
 - Tab to view game statistics
 
-<img src="assets/game_screenshot.png">
-
 ### Rules
 
 - 10 rounds
 - The team with the last player(s) standing wins a point
+
+<img src="assets/game_screenshot.png">
 
 ## Acknowledgements
 
