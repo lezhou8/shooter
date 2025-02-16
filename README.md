@@ -55,6 +55,8 @@ make client
 - Q to swap guns
 - Tab to view game statistics
 
+<img src="assets/game_screenshot">
+
 ### Rules
 
 - 10 rounds
