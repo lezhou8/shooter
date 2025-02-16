@@ -53,6 +53,7 @@ make client
 - Right click to use scope
 - R to reload
 - Q to swap guns
+- Tab to view game statistics
 
 ### Rules
 
