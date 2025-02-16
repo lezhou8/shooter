@@ -1,5 +1,7 @@
 # Shooter
 
+<img src="assets/sprite.png">
+
 Multiplayer first-person-shooter
 
 ## Build
