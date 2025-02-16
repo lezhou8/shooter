@@ -16,6 +16,10 @@ make server
 make client
 ```
 
+## Dependencies
+
+- [raylib](https://www.raylib.com/)
+
 ## Running
 
 ### Server
