@@ -55,7 +55,7 @@ make client
 - Q to swap guns
 - Tab to view game statistics
 
-<img src="assets/game_screenshot">
+<img src="assets/game_screenshot.png">
 
 ### Rules
 
